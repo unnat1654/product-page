@@ -1,0 +1,11 @@
+.itemfordisplay_dot{
+    height: 20px;
+    width: 20px;
+    border-radius:50%;
+    display:inline-block;
+    background-color: black;
+    margin-right: 3px;
+}
+p{
+    background-color: green;
+}
